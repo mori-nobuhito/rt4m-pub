@@ -34,7 +34,7 @@ n-mori@aist.go.jp
    - It is recommended to use the auto capture feature that automatically saves captured images. Refer to the software manuals for settings.  
    - For example, in Nikon NIS-Elements, pressing `[Ctrl] + [Space]` will capture an image and save it to the specified folder.  
 2. Start RT-4M (`rt4m.exe`).  
-   ![img1](https://github.com/mori-nobuhito/rt4m-pub/blob/main/readmedata/1en.PNG)
+   ![img1](readmedata/1en.PNG)
 3. Click the `[Browse]` button and open the image save folder (hereafter referred to as the monitoring folder) of the camera imaging software from step 1.  
    - Paths containing multibyte characters (such as Japanese) are not supported. Image loading may fail.  
 4. Click the `[Start monitoring]` button.  
