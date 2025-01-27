@@ -25,6 +25,7 @@ n-mori@aist.go.jp
 
 ## Installation  
 1. Download or copy `rt4m-xx.zip` (where `xx` is a variable) to the PC used for camera imaging with the microscope.  
+   - zip package can be found at [Releases](https://github.com/mori-nobuhito/rt4m-pub/releases)
 2. Extract the zip file to a folder of your choice.  
    - Extract it to a folder without multibyte characters (e.g., Japanese characters).  
    - Since the software does not use the registry, installation is complete at this point. To uninstall, simply delete the extracted folder.  
