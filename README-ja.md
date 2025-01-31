@@ -1,4 +1,4 @@
-[English](README.md)
+[English version](README.md) - [GitHub Repository](https://github.com/mori-nobuhito/rt4m-pub/) - [Download](https://github.com/mori-nobuhito/rt4m-pub/releases)
 # RT-4M: Realtime Mosaicing Manager for Manual Microscopy
 ## 本ソフトウェアについて
 RT-4Mはバーチャルスライドを作製するためのソフトウェアで、以下の特長があります。
@@ -11,7 +11,7 @@ RT-4Mはバーチャルスライドを作製するためのソフトウェアで
 
 論文等で本ソフトウェアを使用した場合、本ソフトウェアに関する論文を引用してください。以下に文献情報を示します。
 ```
-現在査読中のためプレプリントを記載してあります。将来的にピアレビュー済みの論文情報に差し替えます。
+現在査読中。将来的に論文情報に差し替えます。
 ```
 
 ソフトウェアに関するご意見・ご質問・ご要望、コラボレーション・社会実装・ビジネス展開のご提案等、歓迎いたします。
@@ -23,7 +23,7 @@ RT-4Mはバーチャルスライドを作製するためのソフトウェアで
 n-mori@aist.go.jp
 
 
-## インストール
+## ダウンロードとインストール
 1. 顕微鏡のカメラ撮影用PCにrt4m-xx.zip (xxは不定) をダウンロードまたはコピーする。
    - zipファイルは以下からダウンロード：[Releases](https://github.com/mori-nobuhito/rt4m-pub/releases)
 2. 上記のzipファイルを任意のフォルダに展開する。

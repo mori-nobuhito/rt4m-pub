@@ -1,4 +1,4 @@
-[日本語](README-ja.md)
+[日本語版](README-ja.md) - [GitHub Repository](https://github.com/mori-nobuhito/rt4m-pub/) - [Download](https://github.com/mori-nobuhito/rt4m-pub/releases)
 # RT-4M: Realtime Mosaicing Manager for Manual Microscopy  
 ## About This Software  
 RT-4M is software for creating virtual slides with the following features:  
@@ -11,7 +11,7 @@ Please refer to the LICENSE file for the software license. By using this softwar
 
 If you use this software in a research paper, please cite the related publication. The reference information is provided below:  
 ```
-Currently under peer review, so we have listed the preprint. We will update it with the peer-reviewed version in the future.
+Currently under peer review, so we will update this place with the paper in the future.
 ```
 
 We welcome feedback, questions, requests, and proposals for collaboration, practical applications, or business development.  
@@ -23,7 +23,7 @@ Nobuhito Mori
 
 n-mori@aist.go.jp  
 
-## Installation  
+## Download & Installation  
 1. Download or copy `rt4m-xx.zip` (where `xx` is a variable) to the PC used for camera imaging with the microscope.  
    - zip package can be found at [Releases](https://github.com/mori-nobuhito/rt4m-pub/releases)
 2. Extract the zip file to a folder of your choice.  
