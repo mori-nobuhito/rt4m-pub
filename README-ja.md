@@ -1,4 +1,4 @@
-[English version](README.md) - [GitHub Repository](https://github.com/mori-nobuhito/rt4m-pub/) - [Download](https://github.com/mori-nobuhito/rt4m-pub/releases)
+[README English ver.](README.md) - [GitHub Repository](https://github.com/mori-nobuhito/rt4m-pub/) - [Download](https://github.com/mori-nobuhito/rt4m-pub/releases)
 # RT-4M: Realtime Mosaicing Manager for Manual Microscopy
 ## 本ソフトウェアについて
 RT-4Mはバーチャルスライドを作製するためのソフトウェアで、以下の特長があります。
