@@ -11,7 +11,7 @@ Please refer to the LICENSE file for the software license. By using this softwar
 
 If you use this software in a research paper, please cite the related publication. The reference information is provided below:  
 ```
-Currently under peer review, so we will update this place with the paper in the future.
+Mori, N.; Miyazaki, Y.; Oda, T.; Kida, Y.S. RT-4M: Real-Time Mosaicing Manager for Manual Microscopy System. Sensors 2025, 25, 2968. https://doi.org/10.3390/s25102968
 ```
 
 We welcome feedback, questions, requests, and proposals for collaboration, practical applications, or business development.  
